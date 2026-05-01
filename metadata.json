@@ -1,0 +1,11 @@
+{
+  "name": "JEE Sage",
+  "description": "An elite academic mentor for JEE Physics, Chemistry, and Mathematics, specializing in Socratic doubt solving and PYQ analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "Socratic Doubt Solving",
+    "PYQ Retrieval & Analysis",
+    "Syllabus Mastery Navigator",
+    "LaTeX Math Rendering"
+  ]
+}
